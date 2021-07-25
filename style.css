@@ -1,0 +1,24 @@
+*{
+  margin: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+    body {
+      height: 100vh;
+      width: 100%;
+      background-color:linen;
+      display: inline-block;
+      place-items: center;
+      text-align: center;
+      }
+      .generate {
+        border: solid 3px brown;
+        border-radius: 5px;
+      
+      }
+      h1 {
+        color: saddlebrown;
+      }
+      .quote, .author{
+        color: orangered;
+      }
